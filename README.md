@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- Hello, I'm sumy 👋
-- ![sumy7](https://komarev.com/ghpvc/?username=SmallBoyPeko) ![SmallBoyPeko](https://visitor-badge.glitch.me/badge?page_id=SmallBoyPeko.profile)
+- Hello, I'm SmallBoyPeko 👋
+- ![SmallBoyPeko](https://komarev.com/ghpvc/?username=SmallBoyPeko) ![SmallBoyPeko](https://visitor-badge.glitch.me/badge?page_id=SmallBoyPeko.profile)
 
 ## Tags
 
